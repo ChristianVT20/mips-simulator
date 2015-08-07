@@ -1,0 +1,21 @@
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\bin\Debug\Arquitectura.exe.config
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\obj\Debug\Arquitectura.Properties.Resources.resources
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\obj\Debug\Arquitectura.Ventana.resources
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\obj\Debug\Arquitectura.csproj.GenerateResource.Cache
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\bin\Debug\Arquitectura.exe
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\bin\Debug\Arquitectura.pdb
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\obj\Debug\Arquitectura.exe
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\obj\Debug\Arquitectura.pdb
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\obj\Debug\Arquitectura.Resultados.resources
+c:\users\adolfo\documents\visual studio 2012\Projects\Arquitectura\Arquitectura\obj\Debug\Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\bin\Debug\Arquitectura.exe.config
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\bin\Debug\Arquitectura.exe
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\bin\Debug\Arquitectura.pdb
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.Properties.Resources.resources
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.Resultados.resources
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.ResultadosPorHilo.resources
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.Ventana.resources
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.csproj.GenerateResource.Cache
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.exe
+C:\Users\adolfo\Desktop\proy arqui\Arquitectura\Arquitectura\obj\Debug\Arquitectura.pdb
